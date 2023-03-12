@@ -1,0 +1,17 @@
+questions = {
+    '“ранспорт': {
+        '100': {'question':'plane', 'answer':'самолет', 'asked':False},
+        '200': {'question':'train', 'answer':'поезд', 'asked':False},
+        '300': {'question':'boarding', 'answer':'посадка', 'asked':False},
+    },
+    '∆ивотные': {
+        '100': {'question': 'dog', 'answer': 'собака', 'asked': False},
+        '200': {'question': 'shark', 'answer': 'акула', 'asked': False},
+        '300': {'question': 'sparrow', 'answer': 'воробей', 'asked': False},
+    },
+    '≈да': {
+        '100': {'question': 'apple', 'answer': '€блоко', 'asked': False},
+        '200': {'question': 'berry', 'answer': '€года', 'asked': False},
+        '300': {'question': 'venison', 'answer': 'оленина', 'asked': False},
+    },
+}
